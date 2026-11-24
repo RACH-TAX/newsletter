@@ -10,3 +10,5 @@ Repozytorium zawiera wyłącznie opublikowaną stronę. Każdy push na `main` pu
 - `assets/images/`: logo z paczki marki RACH-TAX, bez modyfikacji.
 
 Wszystkie strony mają `noindex, nofollow`: są publiczne dla osób z linkiem, ale nie trafiają do wyszukiwarek. Nie dodawaj `robots.txt` blokującego indeksowanie, bo wyszukiwarka nie zobaczyłaby wtedy znacznika `noindex`.
+
+Opublikowane wydania: 2026-11 (24.11.2026).
